@@ -1,0 +1,14 @@
+{
+    "version":1,
+    "colorPrimary":"#7a1ea1",
+    "colorPrimaryDark" : "#691a99",
+    "colorPrimaryLight" : "#9b26af",
+    "colorAccent" : "#68efad",
+    "colorAccentInverse" : "#ffffff",
+    "textColorPrimary" : "#ffffff",
+    "textColorSecondary" : "#aaaeb3",
+    "buttonColorEnabled" : "#7e868e",
+    "buttonColorEnabledInverse" : "#ffffff",
+    "buttonColorDisabled" : "#d4d8db",
+    "buttonColorDisabledInverse" : "#ffffff"
+}
